@@ -20,24 +20,35 @@
 method="post">
 
 
-<div>
+        <div>
         <label for="signeeName">Name: </label>
         <input id="signeeName" name="name" type="text" required>
         </div>
 
-
-       
-
+        <label for="signeeAge">Age: </label>
+        <input id="signeeAge" name="age" type="number" required>
 
         <div>
-        <label for="beginnerOption">Experience: Beginner</label>
+        <label for="physicalStatus">Up to Date Physical </label>
+        <input id="physicalStatus" name="physicalStatus" type="checkbox" required>
+        </div>
+       
+
+        <p>Experience:</p>
+        
+
+        <div>
+        <label for="beginnerOption">Beginner</label>
+        
         <input id="beginnerOption" type="radio" name="experienceType" value="B">
+        </div>
 
-
+        <div>
         <label for="intermediateOption">Intermediate</label>
         <input id="intermediateOption" type="radio" name="experienceType" value="I">
+        </div>
 
-
+        <div>
         <label for="expertOption">Expert</label>
         <input id="expertOption" type="radio" name="experienceType" value="E">
         </div>
