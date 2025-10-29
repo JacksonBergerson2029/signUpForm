@@ -8,14 +8,14 @@
 ul {
     text-decoration: underline;
     list-style-position: inside;
-    margin: 0 auto;
+    margin: -3 auto;
 }
 
 p {
 text-decoration-color: aqua;   
 }
 
-.border {
+.p {
     border-style: solid;
     border-color: brown;
     border-width: medium;
