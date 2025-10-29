@@ -20,3 +20,7 @@ text-decoration-color: aqua;
     border-color: brown;
     border-width: medium;
 }
+
+#mainlist {
+    text-decoration-style: double;
+}
