@@ -1,7 +1,18 @@
 * {
-    
     background-color:burlywood;
     text-align: center;
+}
+
+ul{
+text-decoration: underline;
 
 }
 
+p {
+text-decoration-color: aqua;   
+
+}
+
+.borders {
+    border-color: brown;
+}
