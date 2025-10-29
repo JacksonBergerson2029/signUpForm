@@ -13,6 +13,6 @@ text-decoration-color: aqua;
 
 }
 
-.borders {
-    border-color: brown;
+.ul {
+    list-style-position: inside;
 }
