@@ -15,5 +15,5 @@ text-decoration-color: aqua;
 
 .ul {
     list-style-position: inside;
-    margin: auto;
+    margin: 0 auto;
 }
