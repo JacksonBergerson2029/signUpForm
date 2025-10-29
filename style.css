@@ -1,17 +1,15 @@
 * {
     background-color:burlywood;
     text-align: center;
+    border-color: brown;
 }
 
-ul{
-text-decoration: underline;
+ul {
+    text-decoration: underline;
+    list-style-position: inside;
+    margin: 0 auto;
 }
 
 p {
 text-decoration-color: aqua;   
-}
-
-.ul {
-    list-style-position: inside;
-    margin: 0 auto;
 }
