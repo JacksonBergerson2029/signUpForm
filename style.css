@@ -14,12 +14,14 @@ p {
 text-decoration-color: aqua;   
 }
 
-.ul {
-    border-style: solid;
+.list {
+    border-style: dashed;
     border-color: brown;
     border-width: medium;
+    padding: 10px;
 }
 
-#mainlist {
-    text-decoration-style: double;
+#MainList {
+    text-decoration: underline;
+    text-decoration-style: dotted;
 }
