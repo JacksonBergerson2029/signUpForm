@@ -13,3 +13,9 @@ ul {
 p {
 text-decoration-color: aqua;   
 }
+
+.border {
+    border-style: solid;
+    border-color: brown;
+    border-width: medium;
+}
